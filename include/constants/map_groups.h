@@ -558,6 +558,18 @@
 // gMapGroup_IndoorRoute104Prototype
 #define MAP_ROUTE104_PROTOTYPE                          (0 | (27 << 8))
 #define MAP_ROUTE104_PROTOTYPE_PRETTY_PETAL_FLOWER_SHOP (1 | (27 << 8))
+#define MAP_ONE_ISLAND_KNOT_ISLAND                      (2 | (27 << 8))
+#define MAP_ONE_ISLAND_TREASURE_BEACH                   (3 | (27 << 8))
+#define MAP_ONE_ISLAND_KINDLE_ROAD                      (4 | (27 << 8))
+#define MAP_ONE_ISLAND_KINDLE_ROAD_EMBER_SPA            (5 | (27 << 8))
+#define MAP_ONE_ISLAND_POKEMON_CENTER_1F                (6 | (27 << 8))
+#define MAP_ONE_ISLAND_POKEMON_CENTER_2F                (7 | (27 << 8))
+#define MAP_ONE_ISLAND_HOUSE1                           (8 | (27 << 8))
+#define MAP_ONE_ISLAND_HOUSE2                           (9 | (27 << 8))
+#define MAP_MT_EMBER_EXTERIOR                           (10 | (27 << 8))
+#define MAP_MT_EMBER_SUMMIT                             (11 | (27 << 8))
+#define MAP_MT_EMBER_SUMMIT_PATH_1F                     (12 | (27 << 8))
+#define MAP_MT_EMBER_SUMMIT_PATH_2F                     (13 | (27 << 8))
 
 // gMapGroup_IndoorRoute109
 #define MAP_ROUTE109_SEASHORE_HOUSE (0 | (28 << 8))

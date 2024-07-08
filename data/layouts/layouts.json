@@ -4410,6 +4410,126 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_KNOT_ISLAND",
+      "name": "OneIsland_KnotIsland_Layout",
+      "width": 24,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Dewford",
+      "border_filepath": "data/layouts/OneIsland_KnotIsland/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_KnotIsland/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_TREASURE_BEACH",
+      "name": "OneIsland_TreasureBeach_Layout",
+      "width": 24,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Dewford",
+      "border_filepath": "data/layouts/OneIsland_TreasureBeach/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_TreasureBeach/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_KINDLE_ROAD",
+      "name": "OneIsland_KindleRoad_Layout",
+      "width": 24,
+      "height": 140,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/OneIsland_KindleRoad/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_KindleRoad/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_KINDLE_ROAD_EMBER_SPA",
+      "name": "OneIsland_KindleRoad_EmberSpa_Layout",
+      "width": 27,
+      "height": 39,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/OneIsland_KindleRoad_EmberSpa/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_KindleRoad_EmberSpa/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_POKEMON_CENTER_1F",
+      "name": "OneIsland_PokemonCenter_1F_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/OneIsland_PokemonCenter_1F/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_PokemonCenter_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_POKEMON_CENTER_2F",
+      "name": "OneIsland_PokemonCenter_2F_Layout",
+      "width": 14,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/OneIsland_PokemonCenter_2F/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_PokemonCenter_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_HOUSE1",
+      "name": "OneIsland_House1_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/OneIsland_House1/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_House1/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_HOUSE2",
+      "name": "OneIsland_House2_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/OneIsland_House2/border.bin",
+      "blockdata_filepath": "data/layouts/OneIsland_House2/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_EMBER_EXTERIOR",
+      "name": "MtEmber_Exterior_Layout",
+      "width": 57,
+      "height": 54,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/MtEmber_Exterior/border.bin",
+      "blockdata_filepath": "data/layouts/MtEmber_Exterior/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_EMBER_SUMMIT",
+      "name": "MtEmber_Summit_Layout",
+      "width": 19,
+      "height": 22,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/MtEmber_Summit/border.bin",
+      "blockdata_filepath": "data/layouts/MtEmber_Summit/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_EMBER_SUMMIT_PATH_1F",
+      "name": "MtEmber_SummitPath_1F_Layout",
+      "width": 15,
+      "height": 18,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/MtEmber_SummitPath_1F/border.bin",
+      "blockdata_filepath": "data/layouts/MtEmber_SummitPath_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_EMBER_SUMMIT_PATH_2F",
+      "name": "MtEmber_SummitPath_2F_Layout",
+      "width": 48,
+      "height": 46,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/MtEmber_SummitPath_2F/border.bin",
+      "blockdata_filepath": "data/layouts/MtEmber_SummitPath_2F/map.bin"
     }
   ]
 }

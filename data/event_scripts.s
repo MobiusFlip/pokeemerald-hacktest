@@ -1072,3 +1072,27 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+
+	.include "data/maps/OneIsland_KnotIsland/scripts.inc"
+
+	.include "data/maps/OneIsland_TreasureBeach/scripts.inc"
+
+	.include "data/maps/OneIsland_KindleRoad/scripts.inc"
+
+	.include "data/maps/OneIsland_KindleRoad_EmberSpa/scripts.inc"
+
+	.include "data/maps/OneIsland_PokemonCenter_1F/scripts.inc"
+
+	.include "data/maps/OneIsland_PokemonCenter_2F/scripts.inc"
+
+	.include "data/maps/OneIsland_House1/scripts.inc"
+
+	.include "data/maps/OneIsland_House2/scripts.inc"
+
+	.include "data/maps/MtEmber_Exterior/scripts.inc"
+
+	.include "data/maps/MtEmber_Summit/scripts.inc"
+
+	.include "data/maps/MtEmber_SummitPath_1F/scripts.inc"
+
+	.include "data/maps/MtEmber_SummitPath_2F/scripts.inc"
