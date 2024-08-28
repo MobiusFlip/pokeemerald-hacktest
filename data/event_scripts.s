@@ -1096,3 +1096,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/MtEmber_SummitPath_1F/scripts.inc"
 
 	.include "data/maps/MtEmber_SummitPath_2F/scripts.inc"
+
+	.include "data/maps/MtEmber_SummitPath_3F/scripts.inc"
+
+	.include "data/maps/MeteorFalls_Overlook/scripts.inc"

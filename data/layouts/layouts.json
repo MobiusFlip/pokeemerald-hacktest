@@ -4530,6 +4530,26 @@
       "secondary_tileset": "gTileset_Lavaridge",
       "border_filepath": "data/layouts/MtEmber_SummitPath_2F/border.bin",
       "blockdata_filepath": "data/layouts/MtEmber_SummitPath_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_EMBER_SUMMIT_PATH_3F",
+      "name": "MtEmber_SummitPath_3F_Layout",
+      "width": 15,
+      "height": 11,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavaridge",
+      "border_filepath": "data/layouts/MtEmber_SummitPath_3F/border.bin",
+      "blockdata_filepath": "data/layouts/MtEmber_SummitPath_3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_METEOR_FALLS_OVERLOOK",
+      "name": "MeteorFalls_Overlook_Layout",
+      "width": 25,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MeteorFalls",
+      "border_filepath": "data/layouts/MeteorFalls_Overlook/border.bin",
+      "blockdata_filepath": "data/layouts/MeteorFalls_Overlook/map.bin"
     }
   ]
 }

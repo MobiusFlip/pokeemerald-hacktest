@@ -429,7 +429,8 @@
     "TerraCave_Entrance",
     "TerraCave_End",
     "AlteringCave",
-    "MeteorFalls_StevensCave"
+    "MeteorFalls_StevensCave",
+    "MeteorFalls_Overlook"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",
@@ -599,7 +600,8 @@
     "MtEmber_Exterior",
     "MtEmber_Summit",
     "MtEmber_SummitPath_1F",
-    "MtEmber_SummitPath_2F"
+    "MtEmber_SummitPath_2F",
+    "MtEmber_SummitPath_3F"
   ],
   "gMapGroup_IndoorRoute109": [
     "Route109_SeashoreHouse"

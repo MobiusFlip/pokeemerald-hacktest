@@ -14,7 +14,7 @@
 #define P_GEN_3_POKEMON                  TRUE // Generation 3 Pokémon (RSE, FRLG)
 #define P_GEN_4_POKEMON                  TRUE // Generation 4 Pokémon (DPPt, HGSS)
 #define P_GEN_5_POKEMON                  FALSE // Generation 5 Pokémon (BW, B2W2)
-#define P_GEN_6_POKEMON                  TRUE // Generation 6 Pokémon (XY, ORAS)
+#define P_GEN_6_POKEMON                  FALSE // Generation 6 Pokémon (XY, ORAS)
 #define P_GEN_7_POKEMON                  FALSE // Generation 7 Pokémon (SM, USUM, LGPE)
 #define P_GEN_8_POKEMON                  FALSE // Generation 8 Pokémon (SwSh, BDSP, LA)
 #define P_GEN_9_POKEMON                  FALSE // Generation 9 Pokémon (SV)
@@ -290,19 +290,19 @@
 #define P_FAMILY_FINNEON                 P_GEN_4_POKEMON
 #define P_FAMILY_SNOVER                  P_GEN_4_POKEMON
 #define P_FAMILY_ROTOM                   P_GEN_4_POKEMON
-#define P_FAMILY_UXIE                    P_GEN_4_POKEMON
-#define P_FAMILY_MESPRIT                 P_GEN_4_POKEMON
-#define P_FAMILY_AZELF                   P_GEN_4_POKEMON
-#define P_FAMILY_DIALGA                  P_GEN_4_POKEMON
-#define P_FAMILY_PALKIA                  P_GEN_4_POKEMON
-#define P_FAMILY_HEATRAN                 P_GEN_4_POKEMON
+#define P_FAMILY_UXIE                    FALSE
+#define P_FAMILY_MESPRIT                 FALSE
+#define P_FAMILY_AZELF                   FALSE
+#define P_FAMILY_DIALGA                  FALSE
+#define P_FAMILY_PALKIA                  FALSE
+#define P_FAMILY_HEATRAN                 FALSE
 #define P_FAMILY_REGIGIGAS               P_GEN_4_POKEMON
-#define P_FAMILY_GIRATINA                P_GEN_4_POKEMON
-#define P_FAMILY_CRESSELIA               P_GEN_4_POKEMON
-#define P_FAMILY_MANAPHY                 P_GEN_4_POKEMON
-#define P_FAMILY_DARKRAI                 P_GEN_4_POKEMON
-#define P_FAMILY_SHAYMIN                 P_GEN_4_POKEMON
-#define P_FAMILY_ARCEUS                  P_GEN_4_POKEMON
+#define P_FAMILY_GIRATINA                FALSE
+#define P_FAMILY_CRESSELIA               FALSE
+#define P_FAMILY_MANAPHY                 FALSE
+#define P_FAMILY_DARKRAI                 FALSE
+#define P_FAMILY_SHAYMIN                 FALSE
+#define P_FAMILY_ARCEUS                  FALSE
 
 #define P_FAMILY_VICTINI                 P_GEN_5_POKEMON
 #define P_FAMILY_SNIVY                   P_GEN_5_POKEMON
